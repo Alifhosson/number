@@ -10,9 +10,9 @@ import pytz
 # ====== CONFIGURATION ======
 LOGIN_URL    = "http://94.23.120.156/ints/login"
 REPORT_URL   = "http://94.23.120.156/ints/agent/SMSCDRReports"
-BOT_TOKEN    = "7804330334:AAEVW7dqnXH6FWuhXR8Wfloo8tM8xyerQBU"
-GROUP_ID     = "-1002622747960"
-SIGNATURE    = "@mdnurhossenshakib"
+BOT_TOKEN    = "7142079092:AAE25V-GEdJJ-gPa11xe36YlyqdyTaXE-8E"
+GROUP_ID     = "6006322754"
+SIGNATURE    = "@alifhosson"
 CHECK_INTERVAL = 2  # seconds
 # ===========================
 

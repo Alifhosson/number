@@ -1,0 +1,6 @@
+BOT_TOKEN = '7142079092:AAE25V-GEdJJ-gPa11xe36YlyqdyTaXE-8E'
+GROUP_CHAT_ID = 6006322754
+LOGIN_URL = 'http://94.23.120.156/ints/login'
+SMS_REPORT_URL = 'http://94.23.120.156/ints/agent/SMSCDRReports'
+USERNAME = 'sabbirrehman61'
+PASSWORD = '$AbbiR62@'
